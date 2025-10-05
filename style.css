@@ -1,0 +1,9 @@
+p{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+}
